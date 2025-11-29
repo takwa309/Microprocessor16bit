@@ -12,11 +12,10 @@ Le processeur inclut : compteur de programme (PC), unité arithmétique et logiq
 
 ## Contenu du dépôt
 - `src/` : fichiers VHDL du processeur et des composants (ALU, PC, registre, etc.)  
-- `images/diagramme_etat.png` : diagramme de la machine d’état  
 - `README.md` : ce fichier  
 
 ## Diagramme de la machine d’état
-![Diagramme de la machine d’état](images/diagramme_etat.png)
+<img width="936" height="1165" alt="machine_etat_digramme (3)" src="https://github.com/user-attachments/assets/3ba3d897-3cf1-46a4-8f5b-186151dd8b0d" />
 
 ## Outils et technologies
 - **VHDL** pour la conception matérielle  
