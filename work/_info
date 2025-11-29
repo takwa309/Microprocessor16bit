@@ -1,0 +1,499 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Ealu
+Z0 w1760351146
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/HP/Desktop/projet_processeur
+Z5 8C:/intelFPGA/18.1/ual.vhd
+Z6 FC:/intelFPGA/18.1/ual.vhd
+l0
+L6
+V=?[L>>mKA4gKW1B<1VL]41
+!s100 ]:1K@^DFS]DiBzMoYI]d`3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1764419283
+!i10b 1
+Z9 !s108 1764419283.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/ual.vhd|
+Z11 !s107 C:/intelFPGA/18.1/ual.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 =?[L>>mKA4gKW1B<1VL]41
+l20
+L15
+VAZc[LlNV34=5dMkMGFBoV1
+!s100 S@:NdU3XA6jaa_hTTR6Y82
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtrol_unit1
+Z14 w1758367263
+R1
+R2
+R3
+R4
+Z15 8C:/intelFPGA/18.1/machine_etat.vhd
+Z16 FC:/intelFPGA/18.1/machine_etat.vhd
+l0
+L5
+VTAWnGWc=e^HfKXl4`AIFV3
+!s100 6nC@iaT>H_c4J617[O6JQ3
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/machine_etat.vhd|
+Z18 !s107 C:/intelFPGA/18.1/machine_etat.vhd|
+!i113 1
+R12
+R13
+Afsm
+R1
+R2
+R3
+DEx4 work 13 control_unit1 0 22 TAWnGWc=e^HfKXl4`AIFV3
+l27
+L24
+V15I52V6d?279[8LO]ZAE81
+!s100 VSzjRTj0[0jNWJ]<F`=h_0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Eir
+Z19 w1760641041
+R1
+R2
+R3
+R4
+Z20 8C:/intelFPGA/18.1/IR.vhd
+Z21 FC:/intelFPGA/18.1/IR.vhd
+l0
+L5
+VJDLA;L^eYXF0_6LcVFh4^3
+!s100 Ied^MU;D>z4f3dB?TZCG21
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/IR.vhd|
+Z23 !s107 C:/intelFPGA/18.1/IR.vhd|
+!i113 1
+R12
+R13
+Abehavioral_ir
+R1
+R2
+R3
+DEx4 work 2 ir 0 22 JDLA;L^eYXF0_6LcVFh4^3
+l16
+L14
+V6jllcIn3AV8><ABfYzkLA2
+!s100 zbP3zd=09S@X9J]EmFbGa1
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Emachine_etat
+Z24 w1746661255
+R1
+R2
+R3
+R4
+Z25 8C:/intelFPGA/18.1/machine.vhd
+Z26 FC:/intelFPGA/18.1/machine.vhd
+l0
+L5
+VLLESjz2bIGfjz1<c:]=g01
+!s100 BTVcZo0f_]:9h9F1H2VV`3
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/machine.vhd|
+Z28 !s107 C:/intelFPGA/18.1/machine.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 12 machine_etat 0 22 LLESjz2bIGfjz1<c:]=g01
+l26
+L23
+VkzWLS<BLgEoJ<N8WAO5aF2
+!s100 c4G@j8lMzmMJDDFd@lEP32
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ememory_async
+Z29 w1760956632
+R1
+R2
+R3
+R4
+Z30 8C:/intelFPGA/18.1/memoire.vhd
+Z31 FC:/intelFPGA/18.1/memoire.vhd
+l0
+L5
+V4kb<jF<MPFoELE?AK>oTj0
+!s100 41IG]SVl:n2Vfg`nPC_Bm1
+R7
+32
+Z32 !s110 1764419284
+!i10b 1
+Z33 !s108 1764419284.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/memoire.vhd|
+Z35 !s107 C:/intelFPGA/18.1/memoire.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 12 memory_async 0 22 4kb<jF<MPFoELE?AK>oTj0
+l24
+L14
+Vn:Z6JGENTOa:V>E2P;b=^2
+!s100 Bf]JlK2mFBTkVAgiDXnPR3
+R7
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R12
+R13
+Emicroprocessor
+Z36 w1760956299
+R1
+R2
+R3
+R4
+Z37 8C:/intelFPGA/18.1/Microprocessor.vhd
+Z38 FC:/intelFPGA/18.1/Microprocessor.vhd
+l0
+L5
+V@K=ggTXaPVK;SWJGE]j:31
+!s100 3=jCCGh:H[=kM<UBdPcV>3
+R7
+32
+R32
+!i10b 1
+R33
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/Microprocessor.vhd|
+Z40 !s107 C:/intelFPGA/18.1/Microprocessor.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 14 microprocessor 0 22 @K=ggTXaPVK;SWJGE]j:31
+l133
+L12
+VWTko1_II3z>43H30hgP7Y3
+!s100 DA<MBo_I3io0<`8_0GhQ?2
+R7
+32
+R32
+!i10b 1
+R33
+R39
+R40
+!i113 1
+R12
+R13
+Emuxa
+Z41 w1745003953
+R2
+R3
+R4
+Z42 8C:/intelFPGA/18.1/muxA.vhd
+Z43 FC:/intelFPGA/18.1/muxA.vhd
+l0
+L5
+VjgUHM<Oc]77>EG_[WEZ]F3
+!s100 JFX:oC:DaiBA[_AnVFXC42
+R7
+32
+R32
+!i10b 1
+R33
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/muxA.vhd|
+Z45 !s107 C:/intelFPGA/18.1/muxA.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 4 muxa 0 22 jgUHM<Oc]77>EG_[WEZ]F3
+l15
+L14
+V3Y9fAoBhmlen>lA@cA<2T3
+!s100 G8IzJ]PcllPLKEAHCW_M11
+R7
+32
+R32
+!i10b 1
+R33
+R44
+R45
+!i113 1
+R12
+R13
+Emuxb
+Z46 w1745004078
+R2
+R3
+R4
+Z47 8C:/intelFPGA/18.1/muxb.vhd
+Z48 FC:/intelFPGA/18.1/muxb.vhd
+l0
+L4
+VN88BK0]3[1J4nC2WOUE5O3
+!s100 5Pj5nXadKn8mYlaT:LjUl0
+R7
+32
+R32
+!i10b 1
+R33
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/muxb.vhd|
+Z50 !s107 C:/intelFPGA/18.1/muxb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 4 muxb 0 22 N88BK0]3[1J4nC2WOUE5O3
+l14
+L13
+V][OIf<FZKM5:RBngV]C571
+!s100 Sh8;I4H_7`PL0<f0TkP9H1
+R7
+32
+R32
+!i10b 1
+R33
+R49
+R50
+!i113 1
+R12
+R13
+Eoe
+Z51 w1758615864
+R2
+R3
+R4
+Z52 8C:/intelFPGA/18.1/OE.vhd
+Z53 FC:/intelFPGA/18.1/OE.vhd
+l0
+L3
+V8IPF>fd79[LKZC?@dPEiO0
+!s100 cAgIE=S^0b7YMaQ=^I6^[2
+R7
+32
+R32
+!i10b 1
+R33
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/OE.vhd|
+Z55 !s107 C:/intelFPGA/18.1/OE.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 2 oe 0 22 8IPF>fd79[LKZC?@dPEiO0
+l12
+L11
+VNBGbnVI4=EHmHle<R63BK1
+!s100 kFDI@1lSF5dCh[4XSadQ_2
+R7
+32
+R32
+!i10b 1
+R33
+R54
+R55
+!i113 1
+R12
+R13
+Epc
+Z56 w1760640998
+R1
+R2
+R3
+R4
+Z57 8C:/intelFPGA/18.1/pc.vhd
+Z58 FC:/intelFPGA/18.1/pc.vhd
+l0
+L5
+VCG3b83N9z?B;;I66=j`N03
+!s100 oVFYni<Nd3;Ue0AiMJ51F2
+R7
+32
+R32
+!i10b 1
+R33
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/pc.vhd|
+Z60 !s107 C:/intelFPGA/18.1/pc.vhd|
+!i113 1
+R12
+R13
+Abehavioral_pc
+R1
+R2
+R3
+DEx4 work 2 pc 0 22 CG3b83N9z?B;;I66=j`N03
+l15
+L13
+VX6X_8RUD@>SzG[@0nPY]z3
+!s100 C2N_feOI7lK8o>Ok@c;Lg1
+R7
+32
+R32
+!i10b 1
+R33
+R59
+R60
+!i113 1
+R12
+R13
+Etb_control_unit1
+Z61 w1759774276
+R1
+R2
+R3
+R4
+Z62 8C:/intelFPGA/18.1/tb_control_unit1.vhd
+Z63 FC:/intelFPGA/18.1/tb_control_unit1.vhd
+l0
+L5
+V=aU81ead88iRFb_<GIoIY0
+!s100 e6L^zaC@Jf;a7H=agh<ZN1
+R7
+32
+R32
+!i10b 1
+R33
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/tb_control_unit1.vhd|
+Z65 !s107 C:/intelFPGA/18.1/tb_control_unit1.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 16 tb_control_unit1 0 22 =aU81ead88iRFb_<GIoIY0
+l47
+L8
+VOb99FhFG]9kG5UN>^=<]M0
+!s100 b;M8Z[Zn=kkI0g?0JPNT03
+R7
+32
+R32
+!i10b 1
+R33
+R64
+R65
+!i113 1
+R12
+R13
+Etb_machine_etat
+w1758362173
+R1
+R2
+R3
+R4
+8C:/intelFPGA/18.1/FSM.vhd
+FC:/intelFPGA/18.1/FSM.vhd
+l0
+L5
+V[C@W`T`2j2[jJC=mWEheU3
+!s100 R8NiIfL3>MOG8k_6A3ah?2
+R7
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/FSM.vhd|
+!s107 C:/intelFPGA/18.1/FSM.vhd|
+!i113 1
+R12
+R13
+Etb_memory
+w1759140996
+R1
+R2
+R3
+R4
+8C:/intelFPGA/18.1/testbanchmemoire.vhd
+FC:/intelFPGA/18.1/testbanchmemoire.vhd
+l0
+L5
+Vm?RF2c@A3CZNTIkW4ml_U0
+!s100 On[I`50>P]0[6l0ghEZhS0
+R7
+32
+R32
+!i10b 1
+R33
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA/18.1/testbanchmemoire.vhd|
+!s107 C:/intelFPGA/18.1/testbanchmemoire.vhd|
+!i113 1
+R12
+R13
